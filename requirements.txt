@@ -1,0 +1,16 @@
+absl-py
+attrs
+comtypes
+enum34
+future
+mediapipe
+numpy
+opencv-contrib-python
+opencv-python
+protobuf
+psutil
+pycaw
+pywin32
+screen-brightness-control
+six
+WMI
